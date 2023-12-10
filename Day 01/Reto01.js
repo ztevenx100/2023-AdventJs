@@ -7,7 +7,7 @@
 */
 
 function findFirstRepeated(gifts) {
-  var temp = {};
+  let temp = {};
 
   for (const id of gifts){
     if (temp[id]) return id;
@@ -15,6 +15,11 @@ function findFirstRepeated(gifts) {
   }
 
   return -1;
+}
+
+function findFirstRepeated(gifts) {
+  const gift = gifts.filter((item, index) => gifts.indexOf(item) !== index );
+  return gift[0] ?? -1;
 }
 
 //---------------------------------------
