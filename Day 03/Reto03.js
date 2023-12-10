@@ -6,7 +6,18 @@
 */
 
 function findNaughtyStep(original, modified) {
-  if(!original || !modified ) return '';
+  if (original.length === modified.length)return '';
+
+  const interator = modified.length>original.length ? modified : original ;
+  
+  for (let index = 0; index < interator.length; index++) {
+    if (original[index] !== modified[index]) return interator[index];
+  }
+  return ''
+}
+
+function findNaughtyStep(original, modified) {
+  //if(!original || !modified ) return '';
   if( typeof original !== 'string'  || typeof modified  !== 'string' ) return '';
   if (original.length === modified.length)return '';
 
