@@ -9,3 +9,4 @@
 | Reto #02: | 'Ponemos en marcha la fabrica' |
 | Reto #03: | 'El elfo travieso' |
 | Reto #04: | 'Dale la vuelta a los parentesis' |
+| Reto #05: | 'El CyberTruck de Santa' |
