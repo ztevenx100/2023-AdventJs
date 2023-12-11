@@ -14,4 +14,4 @@
 | Reto #05: | **El CyberTruck de Santa** |
 | Reto #06: | **Los renos a prueba** |
 | Reto #07: | **Las cajas en 3D** |
-| Reto #08: | **Ordenando el almacen** |
+| Reto #08: | **Ordenando el almacén** |

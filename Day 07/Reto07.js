@@ -8,9 +8,8 @@
 function drawGift(size, symbol) {
   const endLine = "\n";
   const pound = "#";
-  if (size === 1) {
-    return pound  + endLine;
-  }
+  if (size === 1) return pound  + endLine;
+  
   const lineLength = size * 2 - 1;
   const firstLine = pound.repeat(size)
   const upperBox = [" ".repeat(lineLength - size) + firstLine]
