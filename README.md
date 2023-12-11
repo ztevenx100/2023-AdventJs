@@ -15,3 +15,4 @@
 | Reto #06: | **Los renos a prueba** |
 | Reto #07: | **Las cajas en 3D** |
 | Reto #08: | **Ordenando el almacén** |
+| Reto #09: | **Alternar las luces** |
