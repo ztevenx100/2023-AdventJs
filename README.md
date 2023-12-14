@@ -7,7 +7,7 @@
 
 | Dia     | Nombre | Ejercicio en codigo |
 | ---      | ---       | ---  |
-| Reto #01: | **¡Primer regalo repetido!** |  |
+| Reto #01: | **¡Primer regalo repetido!** | [Spoiler #1](https://github.com/ztevenx100/2023-AdventJs/blob/main/Day%2001/Reto01.js) |
 | Reto #02: | **Ponemos en marcha la fabrica** |  |
 | Reto #03: | **El elfo travieso** |  |
 | Reto #04: | **Dale la vuelta a los parentesis** |  |
@@ -17,7 +17,7 @@
 | Reto #08: | **Ordenando el almacén** |  |
 | Reto #09: | **Alternar las luces** |  |
 | Reto #09: | **Crea tu propio árbol de navidad** |  |
-| Reto #11: | ** ** |  |
+| Reto #11: | **Los elfos estudiosos** |  |
 | Reto #12: | ** ** |  |
 | Reto #13: | ** ** |  |
 | Reto #14: | ** ** |  |
