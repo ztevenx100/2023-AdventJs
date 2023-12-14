@@ -17,7 +17,7 @@
 | Reto #08: | **Ordenando el almacén** |  |
 | Reto #09: | **Alternar las luces** |  |
 | Reto #09: | **Crea tu propio árbol de navidad** |  |
-| Reto #11: | ** ** |  |
+| Reto #11: | **Los elfos estudiosos** |  |
 | Reto #12: | ** ** |  |
 | Reto #13: | ** ** |  |
 | Reto #14: | ** ** |  |
