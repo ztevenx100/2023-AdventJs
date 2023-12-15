@@ -19,7 +19,7 @@
 | Reto #09: | **Crea tu propio árbol de navidad** |  |
 | Reto #11: | **Los elfos estudiosos** |  |
 | Reto #12: | **¿Es una copia válida?** |  |
-| Reto #13: | ** ** |  |
+| Reto #13: | **Calculando el tiempo** |  |
 | Reto #14: | ** ** |  |
 | Reto #15: | ** ** |  |
 | Reto #16: | ** ** |  |
