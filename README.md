@@ -20,7 +20,7 @@
 | Reto #11: | **Los elfos estudiosos** |  |
 | Reto #12: | **¿Es una copia válida?** |  |
 | Reto #13: | **Calculando el tiempo** |  |
-| Reto #14: | ** ** |  |
+| Reto #14: | **Evita la alarma** |  |
 | Reto #15: | ** ** |  |
 | Reto #16: | ** ** |  |
 | Reto #17: | ** ** |  |
