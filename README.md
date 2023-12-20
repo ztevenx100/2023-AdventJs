@@ -22,10 +22,10 @@
 | Reto #13: | **Calculando el tiempo** |  |
 | Reto #14: | **Evita la alarma** |  |
 | Reto #15: | **Autonomous robot** |  |
-| Reto #16: | ** ** |  |
-| Reto #17: | ** ** |  |
-| Reto #18: | ** ** |  |
-| Reto #19: | ** ** |  |
+| Reto #16: | **Despliegue en viernes** |  |
+| Reto #17: | **Optimizando el alquiler** |  |
+| Reto #18: | **El reloj digital** |  |
+| Reto #19: | **Enfrenta el sabotaje** |  |
 | Reto #20: | ** ** |  |
 | Reto #21: | ** ** |  |
 | Reto #22: | ** ** |  |
