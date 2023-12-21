@@ -26,7 +26,7 @@
 | Reto #17: | **Optimizando el alquiler** |  |
 | Reto #18: | **El reloj digital** |  |
 | Reto #19: | **Enfrenta el sabotaje** |  |
-| Reto #20: | ** ** |  |
+| Reto #20: | **Distribuye el peso** |  |
 | Reto #21: | ** ** |  |
 | Reto #22: | ** ** |  |
 | Reto #23: | ** ** |  |
