@@ -31,6 +31,22 @@ function manufacture(gifts, materials) {
   return giftsFabricados;
 }
 
+function manufacture(gifts, materials) {
+  const REGALOS_APROBADOS = [];
+  let juezRegalos = true;
+  for(let i of gifts){
+    for(let car of i){
+      if(materials.includes(car)){
+        continue;
+      } else {
+        juezRegalos = false;
+      }
+    }
+    juezRegalos ? REGALOS_APROBADOS.push(i) : juezRegalos = true;
+  }
+  return REGALOS_APROBADOS;
+}
+
 //---------------------------------------
 
 const gifts = ['tren', 'oso', 'pelota']
