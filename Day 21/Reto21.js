@@ -5,17 +5,18 @@
   Por ejemplo, vamos a ver un ejemplo completo:
 */
 
+
 function findBalancedSegment(message) {
-  let actual = [0]
+  let datoActual = [0]
   for(let i=0; i<message.length; i++){
     let check_balance = message[i], cont = 1
     for(let j=i+1; j<message.length; j++){
       check_balance += message[j]
-      if(++cont / check_balance === 2 && cont > actual[0])
-        actual = [cont,i,j]
+      if(++cont / check_balance === 2 && cont > datoActual[0])
+      datoActual = [cont,i,j]
     }
   }
-  return actual.slice(1)
+  return datoActual.slice(1)
 }
 
 
