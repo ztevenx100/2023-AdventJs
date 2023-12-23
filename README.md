@@ -28,7 +28,7 @@
 | Reto #19: | **Enfrenta el sabotaje** |  |
 | Reto #20: | **Distribuye el peso** |  |
 | Reto #21: | **Mensaje binario** |  |
-| Reto #22: | ** ** |  |
+| Reto #22: | **Lenguaje de programación** |  |
 | Reto #23: | ** ** |  |
 | Reto #24: | ** ** |  |
 | Reto #25: | ** ** |  |
