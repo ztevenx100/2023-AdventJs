@@ -1,5 +1,6 @@
 ## 2023-AdventJs
 # Retos y regalos de programación navideños
+Desafios en JavaScript
 
 > [!IMPORTANT]
 > Iniciativa de @midudev
