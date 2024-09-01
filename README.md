@@ -5,6 +5,7 @@ Desafios en JavaScript
 > [!IMPORTANT]
 > Iniciativa de @midudev
 > Repositorio con los retos del AdventJs 2023
+> Pagina de los retos: [AdventJs](https://adventjs.dev/es)
 
 | Dia     | Nombre | Dificultad | Ejercicio en codigo |
 | ---     | ---    | ---  | ---  |
