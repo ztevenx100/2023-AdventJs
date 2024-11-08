@@ -7,6 +7,8 @@ Desafios en JavaScript
 > Repositorio con los retos del AdventJs 2023
 > Pagina de los retos: [AdventJs](https://adventjs.dev/es)
 
+
+## Tabla de ejercicios
 | Dia     | Nombre | Dificultad | Ejercicio en codigo |
 | ---     | ---    | ---  | ---  |
 | Reto #01: | **¡Primer regalo repetido!** | 🟢 | [Spoiler #01](https://github.com/ztevenx100/2023-AdventJs/blob/main/Day%2001/Reto01.js) |
